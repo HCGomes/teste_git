@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Git ok");
-		System.out.println("Git ok again");
+		System.out.println("Git ok again and now changed on github");
 
 	}
 
